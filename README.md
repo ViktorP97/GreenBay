@@ -1,2 +1,2 @@
 # GreenBay
-simple ebay clone backend application
+Ebay clone backend application
